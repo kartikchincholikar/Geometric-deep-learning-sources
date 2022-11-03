@@ -34,8 +34,17 @@ In this podcast series Professor Ian Stewart of Warwick's Department of Mathemat
 [Workshop on Equivariance and Data Augmentation](https://www.youtube.com/playlist?list=PL7VfmMOOwNlJ5PndlhiMwjvqDTA6m1Z9i)\
 [Theoretical Foundations of Graph Neural Networks](https://www.youtube.com/watch?v=uF53xsT7mjc)\
 [Geometric Deep Learning: GNNs Beyond Permutation Equivariance](https://www.youtube.com/watch?v=aCUOAkOqNoU)\
+[Symmetries of the Universe | ScienceClic](https://www.youtube.com/watch?v=hF_uHfSoOGA)\
+[CIS COLLOQUIUM: Prof. Michael Bronstein - Geometric Deep Learning: from Euclid to drug design](https://www.youtube.com/watch?v=lYsuATGY0Ao)\
 
-# Math Lectures
+# Books
+[Geometric Deep Learning Proto Book](https://arxiv.org/abs/2104.13478)
+# Blogs
+https://fabianfuchsml.github.io/noether/
+https://fabianfuchsml.github.io/equivariance1of2/
+https://fabianfuchsml.github.io/alphafold2/
+
+
 
 
 
