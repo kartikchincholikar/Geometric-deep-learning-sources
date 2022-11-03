@@ -40,9 +40,11 @@ In this podcast series Professor Ian Stewart of Warwick's Department of Mathemat
 # Books
 [Geometric Deep Learning Proto Book](https://arxiv.org/abs/2104.13478)
 # Blogs
-[Noethers Theorem| Fabian Fuchs](https://fabianfuchsml.github.io/noether/)
-[Equivariance part 1 | Fabian Fuchs](https://fabianfuchsml.github.io/equivariance1of2/)
-[Equivariance part 2 | Fabian Fuchs](https://fabianfuchsml.github.io/alphafold2/)
+[Geometric foundations of Deep Learning](https://towardsdatascience.com/geometric-foundations-of-deep-learning-94cdd45b451d)\
+[Noethers Theorem| Fabian Fuchs](https://fabianfuchsml.github.io/noether/)\
+[Equivariance part 1 | Fabian Fuchs](https://fabianfuchsml.github.io/equivariance1of2/)\
+[Equivariance part 2 | Fabian Fuchs](https://fabianfuchsml.github.io/alphafold2/)\
+
 
 
 
