@@ -31,6 +31,7 @@ In this podcast series Professor Ian Stewart of Warwick's Department of Mathemat
 
 
 # Stand alone Lectures / Talks
+[ICLR 2021 Keynote - "Geometric Deep Learning: The Erlangen Programme of ML" - M Bronstein](https://www.youtube.com/watch?v=w6Pw4MOzMuo)\
 [Workshop on Equivariance and Data Augmentation](https://www.youtube.com/playlist?list=PL7VfmMOOwNlJ5PndlhiMwjvqDTA6m1Z9i)\
 [Theoretical Foundations of Graph Neural Networks](https://www.youtube.com/watch?v=uF53xsT7mjc)\
 [Geometric Deep Learning: GNNs Beyond Permutation Equivariance](https://www.youtube.com/watch?v=aCUOAkOqNoU)\
@@ -43,7 +44,7 @@ In this podcast series Professor Ian Stewart of Warwick's Department of Mathemat
 [Geometric foundations of Deep Learning](https://towardsdatascience.com/geometric-foundations-of-deep-learning-94cdd45b451d)\
 [Noethers Theorem| Fabian Fuchs](https://fabianfuchsml.github.io/noether/)\
 [Equivariance part 1 | Fabian Fuchs](https://fabianfuchsml.github.io/equivariance1of2/)\
-[Equivariance part 2 | Fabian Fuchs](https://fabianfuchsml.github.io/alphafold2/)\
+[Equivariance part 2 | Fabian Fuchs](https://fabianfuchsml.github.io/alphafold2/)
 
 
 
