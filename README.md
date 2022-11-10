@@ -48,6 +48,10 @@ In this podcast series Professor Ian Stewart of Warwick's Department of Mathemat
 [Equivariance part 2 | Fabian Fuchs](https://fabianfuchsml.github.io/alphafold2/)\
 [Naturally Occurring Equivariance in Neural Networks](https://distill.pub/2020/circuits/equivariance/)
 
+# Seeing transformers as graphs
+[Aman.ai](https://aman.ai/primers/ai/transformers/#sentences-are-fully-connected-word-graphs)\
+[Transformers are Graph Neural Networks](https://towardsdatascience.com/transformers-are-graph-neural-networks-bca9f75412aa)
+
 
 
 
