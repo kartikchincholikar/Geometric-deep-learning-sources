@@ -38,6 +38,7 @@ In this podcast series Professor Ian Stewart of Warwick's Department of Mathemat
 [Geometric Deep Learning: GNNs Beyond Permutation Equivariance](https://www.youtube.com/watch?v=aCUOAkOqNoU)\
 [Symmetries of the Universe | ScienceClic](https://www.youtube.com/watch?v=hF_uHfSoOGA)\
 [CIS COLLOQUIUM: Prof. Michael Bronstein - Geometric Deep Learning: from Euclid to drug design](https://www.youtube.com/watch?v=lYsuATGY0Ao)\
+[Max Welling Talk on Graphs](https://www.youtube.com/watch?v=Wx8J-Kw3fTA)
 
 # Books
 [Geometric Deep Learning Proto Book](https://arxiv.org/abs/2104.13478)
