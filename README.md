@@ -50,7 +50,9 @@ In this podcast series Professor Ian Stewart of Warwick's Department of Mathemat
 
 # Seeing transformers as graphs
 [Aman.ai](https://aman.ai/primers/ai/transformers/#sentences-are-fully-connected-word-graphs)\
-[Transformers are Graph Neural Networks](https://towardsdatascience.com/transformers-are-graph-neural-networks-bca9f75412aa)
+[Transformers are Graph Neural Networks](https://towardsdatascience.com/transformers-are-graph-neural-networks-bca9f75412aa)\
+[DeepMind x UCL | Deep Learning Lectures | 7/12 | Deep Learning for Natural Language Processing](https://www.youtube.com/watch?v=8zAP2qWAsKg)\
+[A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective](https://arxiv.org/pdf/2209.13232.pdf)
 
 
 
