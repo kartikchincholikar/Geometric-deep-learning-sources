@@ -21,6 +21,16 @@ A conversation with Professor Dr. Matthew Satriano
 [A short history of symmetry](https://warwick.ac.uk/newsandevents/podcasts/media/more/symmetry/)\
 In this podcast series Professor Ian Stewart of Warwick's Department of Mathematics explores the history of symmetry and its impact on mathematics, physics and our understanding of the Universe.
 
+# Stand alone Lectures / Talks
+[ICLR 2021 Keynote - "Geometric Deep Learning: The Erlangen Programme of ML" - M Bronstein](https://www.youtube.com/watch?v=w6Pw4MOzMuo)\
+[Workshop on Equivariance and Data Augmentation](https://www.youtube.com/playlist?list=PL7VfmMOOwNlJ5PndlhiMwjvqDTA6m1Z9i)\
+[Theoretical Foundations of Graph Neural Networks](https://www.youtube.com/watch?v=uF53xsT7mjc)\
+[Geometric Deep Learning: GNNs Beyond Permutation Equivariance](https://www.youtube.com/watch?v=aCUOAkOqNoU)\
+[Symmetries of the Universe | ScienceClic](https://www.youtube.com/watch?v=hF_uHfSoOGA)\
+[CIS COLLOQUIUM: Prof. Michael Bronstein - Geometric Deep Learning: from Euclid to drug design](https://www.youtube.com/watch?v=lYsuATGY0Ao)\
+[Max Welling Talk on Graphs](https://www.youtube.com/watch?v=Wx8J-Kw3fTA)\
+[Geometric Deep Learning: Geordie Williamson](https://www.youtube.com/watch?v=7pRIjJ_u2_c)
+
 
 # Lecture Series
 [Deep Learning](https://www.youtube.com/playlist?list=PLut9dwe1z0dDOlSikFHe-HH4O3uxETj4m)\
@@ -38,7 +48,8 @@ In this podcast series Professor Ian Stewart of Warwick's Department of Mathemat
 [Geometric Deep Learning: GNNs Beyond Permutation Equivariance](https://www.youtube.com/watch?v=aCUOAkOqNoU)\
 [Symmetries of the Universe | ScienceClic](https://www.youtube.com/watch?v=hF_uHfSoOGA)\
 [CIS COLLOQUIUM: Prof. Michael Bronstein - Geometric Deep Learning: from Euclid to drug design](https://www.youtube.com/watch?v=lYsuATGY0Ao)\
-[Max Welling Talk on Graphs](https://www.youtube.com/watch?v=Wx8J-Kw3fTA)
+[Max Welling Talk on Graphs](https://www.youtube.com/watch?v=Wx8J-Kw3fTA)\
+[Geometric Deep Learning: Geordie Williamson](https://www.youtube.com/watch?v=7pRIjJ_u2_c)
 
 # Books
 [Geometric Deep Learning Proto Book](https://arxiv.org/abs/2104.13478)\
