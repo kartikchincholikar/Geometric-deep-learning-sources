@@ -38,7 +38,8 @@ In this podcast series Professor Ian Stewart of Warwick's Department of Mathemat
 [Pytorch Geometric tutorial](https://www.youtube.com/watch?v=JtDgmmQ60x8&list=PLGMXrbDNfqTzqxB1IGgimuhtfAhGd8lHF&index=2)\
 [Visual Group Theory](https://www.youtube.com/playlist?list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv)\
 [AMMI 2022 Course "Geometric Deep Learning"](https://www.youtube.com/watch?v=5c_-KX1sRDQ&list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C)\
-[Multi Task and Meta Learning](https://www.youtube.com/watch?v=0rZtSwNOTQo&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
+[Multi Task and Meta Learning](https://www.youtube.com/watch?v=0rZtSwNOTQo&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)\
+[Graphs and Geometry Reading Group](https://www.youtube.com/watch?v=M5owHERuVcE&list=PLoVkjhDgBOt2UwOm70DAuxHf1Jc9ijmzl)
 
 
 # Stand alone Lectures / Talks
@@ -49,7 +50,8 @@ In this podcast series Professor Ian Stewart of Warwick's Department of Mathemat
 [Symmetries of the Universe | ScienceClic](https://www.youtube.com/watch?v=hF_uHfSoOGA)\
 [CIS COLLOQUIUM: Prof. Michael Bronstein - Geometric Deep Learning: from Euclid to drug design](https://www.youtube.com/watch?v=lYsuATGY0Ao)\
 [Max Welling Talk on Graphs](https://www.youtube.com/watch?v=Wx8J-Kw3fTA)\
-[Geometric Deep Learning: Geordie Williamson](https://www.youtube.com/watch?v=7pRIjJ_u2_c)
+[Geometric Deep Learning: Geordie Williamson](https://www.youtube.com/watch?v=7pRIjJ_u2_c)\
+[Symmetry and Equivariance in Neural Networks - Tess Smidt](https://www.youtube.com/watch?v=8s0Ka6Y_kIM)
 
 # Books
 [Geometric Deep Learning Proto Book](https://arxiv.org/abs/2104.13478)\
