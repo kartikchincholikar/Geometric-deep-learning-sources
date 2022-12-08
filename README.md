@@ -57,7 +57,9 @@ In this podcast series Professor Ian Stewart of Warwick's Department of Mathemat
 [Geometric Deep Learning Proto Book](https://arxiv.org/abs/2104.13478)\
 [Equivariance For Deep Learning And
 Retinal Imaging](https://discovery.ucl.ac.uk/id/eprint/10078529/1/Worrell_thesis_no%20statement.pdf)\
-[Improving NNs for Biomedical Imaging](https://www.diva-portal.org/smash/get/diva2:1694451/FULLTEXT01.pdf)\
+[Improving training of deep learning
+for biomedical image analysis and
+computational physics](https://www.diva-portal.org/smash/get/diva2:1694451/FULLTEXT01.pdf)
 
 # Blogs
 [Geometric foundations of Deep Learning](https://towardsdatascience.com/geometric-foundations-of-deep-learning-94cdd45b451d)\
