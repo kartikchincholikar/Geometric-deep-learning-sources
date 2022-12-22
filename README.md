@@ -38,7 +38,8 @@ In this podcast series Professor Ian Stewart of Warwick's Department of Mathemat
 [Pytorch Geometric tutorial](https://www.youtube.com/watch?v=JtDgmmQ60x8&list=PLGMXrbDNfqTzqxB1IGgimuhtfAhGd8lHF&index=2)\
 [AMMI 2022 Course "Geometric Deep Learning"](https://www.youtube.com/watch?v=5c_-KX1sRDQ&list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C)\
 [Multi Task and Meta Learning](https://www.youtube.com/watch?v=0rZtSwNOTQo&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)\
-[Graphs and Geometry Reading Group](https://www.youtube.com/watch?v=M5owHERuVcE&list=PLoVkjhDgBOt2UwOm70DAuxHf1Jc9ijmzl)
+[Graphs and Geometry Reading Group](https://www.youtube.com/watch?v=M5owHERuVcE&list=PLoVkjhDgBOt2UwOm70DAuxHf1Jc9ijmzl)\
+[Euclidian Symmetry in Machine Learning for Material Science](https://www.youtube.com/watch?v=q9EwZsHY1sk&list=PLx3xbphkO3qIlBoESkbafXaDtr0tq5iRd)
 
 # Math Lecture Series 
 [Visual Group Theory](https://www.youtube.com/playlist?list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv)\
