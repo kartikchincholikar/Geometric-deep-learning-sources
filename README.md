@@ -70,6 +70,8 @@ for biomedical image analysis and
 computational physics](https://www.diva-portal.org/smash/get/diva2:1694451/FULLTEXT01.pdf)
 
 # Blogs
+[Conv Nets: A Modular Perspective](https://colah.github.io/posts/2014-07-Conv-Nets-Modular/)\
+[Understanding Convolutions](https://colah.github.io/posts/2014-07-Understanding-Convolutions/)\
 [Groups & Group Convolutions](https://colah.github.io/posts/2014-12-Groups-Convolution/)\
 [Geometric foundations of Deep Learning](https://towardsdatascience.com/geometric-foundations-of-deep-learning-94cdd45b451d)\
 [Noethers Theorem | Fabian Fuchs](https://fabianfuchsml.github.io/noether/)\
