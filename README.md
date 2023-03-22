@@ -68,7 +68,9 @@ In this podcast series Professor Ian Stewart of Warwick's Department of Mathemat
 Retinal Imaging](https://discovery.ucl.ac.uk/id/eprint/10078529/1/Worrell_thesis_no%20statement.pdf)\
 [Improving training of deep learning
 for biomedical image analysis and
-computational physics](https://www.diva-portal.org/smash/get/diva2:1694451/FULLTEXT01.pdf)
+computational physics](https://www.diva-portal.org/smash/get/diva2:1694451/FULLTEXT01.pdf)\
+[Deep Learning for Molecules and Materials](https://dmol.pub/index.html)\
+
 
 # Blogs
 [Conv Nets: A Modular Perspective](https://colah.github.io/posts/2014-07-Conv-Nets-Modular/)\
