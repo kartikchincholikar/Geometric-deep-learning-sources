@@ -40,7 +40,8 @@ In this podcast series Professor Ian Stewart of Warwick's Department of Mathemat
 [First Italian School on Geometric Deep Learning - Pescara 2022](https://www.youtube.com/playlist?list=PLn2-dEmQeTfRQXLKf9Fmlk3HmReGg3YZZ)\
 [Multi Task and Meta Learning](https://www.youtube.com/watch?v=0rZtSwNOTQo&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)\
 [Graphs and Geometry Reading Group](https://www.youtube.com/watch?v=M5owHERuVcE&list=PLoVkjhDgBOt2UwOm70DAuxHf1Jc9ijmzl)\
-[Euclidian Symmetry in Machine Learning for Material Science](https://www.youtube.com/watch?v=q9EwZsHY1sk&list=PLx3xbphkO3qIlBoESkbafXaDtr0tq5iRd)
+[Euclidian Symmetry in Machine Learning for Material Science](https://www.youtube.com/watch?v=q9EwZsHY1sk&list=PLx3xbphkO3qIlBoESkbafXaDtr0tq5iRd)\
+[Stanford CS330: Deep Multi-Task & Meta Learning ](https://www.youtube.com/watch?v=dYmJd_fJLW0&list=PLoROMvodv4rMIJ-TvblAIkw28Wxi27B36)
 
 # Math Lecture Series 
 [Visual Group Theory](https://www.youtube.com/playlist?list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv)\
