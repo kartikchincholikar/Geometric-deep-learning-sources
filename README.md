@@ -81,7 +81,8 @@ computational physics](https://www.diva-portal.org/smash/get/diva2:1694451/FULLT
 [Noethers Theorem | Fabian Fuchs](https://fabianfuchsml.github.io/noether/)\
 [Equivariance part 1 | Fabian Fuchs](https://fabianfuchsml.github.io/equivariance1of2/)\
 [Equivariance part 2 | Fabian Fuchs](https://fabianfuchsml.github.io/alphafold2/)\
-[Naturally Occurring Equivariance in Neural Networks](https://distill.pub/2020/circuits/equivariance/)
+[Naturally Occurring Equivariance in Neural Networks](https://distill.pub/2020/circuits/equivariance/)\
+[Aleksa Gordic | Introduction to Graph Attention Networks](https://github.com/gordicaleksa/pytorch-GAT)\
 
 # Seeing transformers as graphs
 [Aman.ai](https://aman.ai/primers/ai/transformers/#sentences-are-fully-connected-word-graphs)\
