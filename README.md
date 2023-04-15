@@ -35,6 +35,7 @@ In this podcast series Professor Ian Stewart of Warwick's Department of Mathemat
 # Lecture Series
 [Deep Learning](https://www.youtube.com/playlist?list=PLut9dwe1z0dDOlSikFHe-HH4O3uxETj4m)\
 [Group Equivariant Deep Learning](https://www.youtube.com/watch?v=z2OEyUgSH2c&list=PL8FnQMH2k7jzPrxqdYufoiYVHim8PyZWd&index=2)\
+[Equivariant Neural Networks | Short Video Serier by DeepFindr ](https://www.youtube.com/playlist?list=PLV8yxwGOxvvrDzWr8rJjAW1DYH30h08D6)\
 [Pytorch Geometric tutorial](https://www.youtube.com/watch?v=JtDgmmQ60x8&list=PLGMXrbDNfqTzqxB1IGgimuhtfAhGd8lHF&index=2)\
 [AMMI 2022 Course "Geometric Deep Learning"](https://www.youtube.com/watch?v=5c_-KX1sRDQ&list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C)\
 [First Italian School on Geometric Deep Learning - Pescara 2022](https://www.youtube.com/playlist?list=PLn2-dEmQeTfRQXLKf9Fmlk3HmReGg3YZZ)\
